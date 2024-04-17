@@ -1,0 +1,18 @@
+Servidores
+    Apache HTTP Server
+    Microsoft IIS
+    JBoss
+    NGINX
+    Node
+
+DNS Server
+    Resolve a URL para indicar a máquina Web Server
+
+Virtual Hosting
+    Web Server com vários sites
+
+Web Stack
+    Linguagem
+    Web Server - Banco de Dados
+    Sistema Operacional
+    LAMP (Linux, MySQL, Apache, PHP)
