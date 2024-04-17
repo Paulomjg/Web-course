@@ -1,0 +1,39 @@
+Hyper Text Transfer Protocol
+    Faz parte da Camada de Aplicação do Protocolo TCP/IP
+    Stateless (comunicação pela primeira vez)
+    Cliente-Servidor    
+    TCP/IP
+    HTML, CSS, JS, Mídias...
+
+Fluxo
+    1 - Usuário Informa URL
+    2 - Browser gera a Requisição
+    3 - Servidor Web gera a Resposta
+
+HTTP - Métodos
+    GET
+    POST
+    PUT
+    DELETE
+    TRACE
+    OPTIONS
+    CONNECT
+    HEAD
+
+Requisição e Resposta
+    Cliente pede através de uma URL
+    Servidor responde com html, css, js, mídias, etc... 
+
+Requisição GET
+    Os parametros vão na própria URL
+    http://www.google.com.br/search?q=Linux&hl=pt-BR
+
+Requisição POST
+    Os parametros vão no corpo
+
+Grupos de Status HTTP
+    100s - Informção
+    200s - Sucesso
+    300s - Redirecionamento
+    400s - Erro no Cliente
+    500s - Erro no Servidor

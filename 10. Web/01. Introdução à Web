@@ -1,0 +1,44 @@
+1950 - Computador Eletrônico
+1960 - ARPANET
+1970 - Protocolo TCP/IP
+1980 - WWW
+1990 - Internet no Brasil
+2000 - IG, Redes Sociais, Internet em Casa
+
+Topologias de Redes
+    Centralizada
+    Distribuida (internet)
+
+Web (Teia)
+    Tier 3 Networks
+    Tier 2 Networks
+    Tier 1 Networks
+
+TCP
+    Orientado a conexão e confiável
+IP
+    Roteamento de Redes
+
+TCP/IP (software) - Padrão Layers
+    Rede/Física
+    Internet
+    Transporte
+    Aplicação
+
+Anatomia do IPv4
+    Classe A 192.168.100.230
+            rede ---host---
+            255.0.0.0
+
+    Classe B 192.168.100.230
+            --rede-- --host--
+            255.255.0.0
+        
+    Classe C 192.168.100.230
+            ----rede---- host
+            255.255.255.0
+
+Conceito de Porta...(identifica um processo)
+    Se vc quer acesar um aplicação em um determinado
+        computador, vc precisado endereço do computador
+        e da porta, exemplo: http://10.85.0.5:8080
