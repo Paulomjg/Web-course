@@ -1,0 +1,14 @@
+HHTPSeguro
+    SSL Secure Sockets Layer Protocol
+    TLS Transport Layer Security Protocol
+
+Certificado usados com SSL/TLS
+
+HTTPS
+    Dados criptografados
+    Protege com interceptação (MITM)
+    Criptografa tudo (URL, cookies, headers)
+    Usa certificados digitais
+
+Autoridades certificadoras
+    Emite os certificados digitais

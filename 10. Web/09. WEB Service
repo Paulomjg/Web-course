@@ -1,0 +1,13 @@
+Web Service
+    Representational State Transfer (REST)
+        JSON, HTTP, Simples
+
+ Convenções RESTful
+    /clientes - POST - Novo cliente
+    /clientes - GET  - Obtém todos os clientes
+    /clientes/36 - GET - Obtém cliente 36
+    /clientes/12 - PUT - Atualiza cliente 12
+    /clientes/41 - DELETE - Exclui cliente 41
+
+Escolhas Arquiteturais
+    SOA vs Micro Service
