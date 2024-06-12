@@ -1,0 +1,13 @@
+Servidor DNS
+    Traduz os nomes de domínio em endereço IP
+
+DNS funciona sobre o protocolo UDP na porta 53
+
+Funcionamento Básico do DNS
+    1 Usuário informa o endereço no browser
+    2 Computador envia uma consulta DNS para o servidor local
+    3 O Servidor responde com o endereço IP
+    4 Computador acessa o servidor a partir do IP obtido
+
+Busca Recursiva
+Busca interativa
